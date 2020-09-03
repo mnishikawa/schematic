@@ -18,5 +18,6 @@
 回路図や動画に無い設計情報はブログにまとめていきますので、こちらを御覧ください。
 
 ▼設計情報などをまとめたブログ
-https://mnishikawa.hatenablog.com/
+
+ https://mnishikawa.hatenablog.com/entry/2020/09/03/223844
 
