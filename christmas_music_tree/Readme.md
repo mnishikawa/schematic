@@ -3,13 +3,15 @@
 ■　動作概要
 
 　動画を御覧ください。
+　https://www.youtube.com/watch?v=Pi8v3h1oNAY
 
-　
+
 
 ■　作り方等の情報
 
 クリスマスソング再生用サウンドICとイルミネーションLEDで作るクリスマスツリー用電子制御モジュールの設計情報です。
 回路図、作り方含めてブログにまとめていますのでこちらを御覧ください。
 
-　https://mnishikawa.hatenablog.com/
+　https://mnishikawa.hatenablog.com/entry/2020/10/18/111213
+
 
